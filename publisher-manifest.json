@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "62059e8e10760098d9af82af",
+  "owner": "kpdzvvfm",
+  "repo": "page-e83a52faa30d9d5709ab9bad",
+  "title": "卡路里(calorie)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "e83a52faa30d9d5709ab9bad",
+      "a": "卡路里(calorie)",
+      "b": "机场官网线路发布页",
+      "entity": "卡路里(calorie)",
+      "brand": "卡路里(calorie)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "65a0039bf91c4ade96f884f3d120fed57119a9c6c9621c470a6afa9b8fb73bff",
+      "content": {
+        "primary_entity": "卡路里(calorie)",
+        "keyword1": "卡路里(calorie)",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择订阅客户端：Windows 可选 Clash Verge，macOS 可选 ClashX，iOS 可选 Shadowrocket，Android 可选 v2rayNG，先在设置中导入订阅链接再启用代理。",
+          "AI_CLIENTS_TITLE": "按设备选客户端",
+          "AI_CLOSING_TEXT": "按设备数量与月流量需求挑好套餐，完成订阅导入即可开始使用。",
+          "AI_CLOSING_TITLE": "选对套餐，顺畅起步",
+          "AI_DESCRIPTION": "，围绕海外加速场景提供基础版、旗舰版与团队版三档订阅：基础版每月100GB流量、支持3台设备在线；旗舰版每月300GB流量、支持5台设备并含IPLC专线游戏加速；团队版每月1000GB流量、支持20台设备及企业定制路由。月付15元起，按年付仅需150元，不同设备通过Clash、Shadowrocket等客户端导入订阅即可使用。",
+          "AI_FAQ_ANSWER_1": "基础版适合单人日常浏览与轻度流媒体，每月100GB流量、3台设备同时在线，月付15元，按年付150元。",
+          "AI_FAQ_ANSWER_2": "旗舰版支持5台设备同时在线，每月300GB流量，并含全节点原生流媒体解锁与IPLC专线游戏加速优化。",
+          "AI_FAQ_ANSWER_3": "常规设备可选择Clash Verge、ClashX、Shadowrocket或v2rayNG，导入订阅链接后开启代理即可。不同客户端设置项略有差异，建议参照客户端自身文档操作。",
+          "AI_FAQ_ANSWER_4": "团队版每月1000GB流量、支持20台设备同时在线，并提供VIP专属高带宽节点、企业定制路由与专属客户经理服务，适合小团队协作。",
+          "AI_FAQ_ANSWER_5": "套餐支持按月与按年两种方式，按年付更划算：基础版150元/年、旗舰版350元/年、团队版850元/年，可按使用周期灵活选择。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与套餐周期。",
+          "AI_FAQ_QUESTION_1": "基础版适合哪些使用场景？",
+          "AI_FAQ_QUESTION_2": "旗舰版比基础版多了哪些权益？",
+          "AI_FAQ_QUESTION_3": "不同设备如何导入订阅？",
+          "AI_FAQ_QUESTION_4": "团队版能支持多少设备？",
+          "AI_FAQ_QUESTION_5": "套餐可以按月还是按年付费？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "从设备数量、流量额度和订阅周期出发，三档套餐覆盖个人到团队的不同需求。",
+          "AI_FEATURES_TITLE": "订阅配置参考",
+          "AI_FEATURE_TEXT_1": "基础版每月100GB流量、支持3台设备在线，按年付仅需150元，适合单人日常使用。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月300GB流量、支持5台设备，含IPLC专线游戏加速优化与全节点流媒体解锁。",
+          "AI_FEATURE_TEXT_3": "团队版每月1000GB流量、支持20台设备，提供VIP高带宽节点与企业定制路由。",
+          "AI_FEATURE_TITLE_1": "轻量入门",
+          "AI_FEATURE_TITLE_2": "进阶加速",
+          "AI_FEATURE_TITLE_3": "团队协作",
+          "AI_GUIDE_INTRO": "从确认需求到导入订阅，三步完成配置。",
+          "AI_GUIDE_TITLE": "配置步骤",
+          "AI_HERO_INTRO": "卡路里提供基础版、旗舰版与团队版三档海外加速订阅，覆盖每月100GB到1000GB流量、3到20台设备同时在线的不同需求，月付15元起，按年付低至150元。",
+          "AI_HERO_SUBTITLE": "三档订阅按需匹配",
+          "AI_HIGHLIGHT_1": "月付15元起，年付150元起",
+          "AI_HIGHLIGHT_2": "支持3至20台设备在线",
+          "AI_HIGHLIGHT_3": "IPLC专线与流媒体解锁",
+          "AI_PLANS_INTRO": "基础版每月100GB流量、3台设备，年付150元；旗舰版每月300GB流量、5台设备，年付350元；团队版每月1000GB流量、20台设备，年付850元。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据常用设备数量与每月流量需求，在基础版、旗舰版、团队版中选定一档。",
+          "AI_STEP_TEXT_2": "确认所选套餐支持的设备数量与订阅周期，核对按年付价格是否匹配使用计划。",
+          "AI_STEP_TEXT_3": "参照所选客户端自带文档完成订阅链接导入，再按需调整代理模式。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "依客户端配置订阅",
+          "AI_VISUAL_TITLE": "卡路里海外加速"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "chelunvideo.com",
+    "host": "chelunvideo.com"
+  },
+  "file_hashes": {
+    "index.html": "9fb51d841641e3f6c11b36c815aa1eaa92cb45509e65416e546637a887fafe9a",
+    "sitemap.xml": "3840aab345ff0628aef57cf4e824594aae2f309453d263b6622413e031b961f9",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "68f6d491381821f6d59f3274aad77aa0a18c071507d1161ad88d74fda311c933",
+    "robots.txt": "69b9827baa1fbf9001a62926b1a1209f3d405305d9734b8b8f34561e381f4abb",
+    "cbefbec0251dd29af7f6c1b23215de82.txt": "004185c054b58704e35bdfe89ad5163285bf7784a7fc27e1c795dd91d8a81b1d"
+  },
+  "revision": "44750df6b38ff1fb583c1fafb6b73c32893bcadcc1746257916a5a57b8a854f7"
+}
